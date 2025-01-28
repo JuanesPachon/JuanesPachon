@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanes-pachon-web-dev/)
-[![Personal Website](https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://juanes-pachon.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://juanespachon.is-a.dev/)
 
 ## 📊 GitHub Stats
 
